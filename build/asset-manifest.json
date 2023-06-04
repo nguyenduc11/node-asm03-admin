@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/node-asm03-admin/static/css/main.598ce7b6.css",
+    "main.js": "/node-asm03-admin/static/js/main.56883670.js",
+    "index.html": "/node-asm03-admin/index.html",
+    "main.598ce7b6.css.map": "/node-asm03-admin/static/css/main.598ce7b6.css.map",
+    "main.56883670.js.map": "/node-asm03-admin/static/js/main.56883670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598ce7b6.css",
+    "static/js/main.56883670.js"
+  ]
+}
