@@ -3,9 +3,10 @@ import axios from 'axios';
 import queryString from 'query-string';
 // Set up default config for http requests here
 // Please have a look at here `https://github.com/axios/axios#requestconfig` for the full list of configs
+axios.defaults.withCredentials = true;
 const axiosClient = axios.create({
   // baseURL: 'http://localhost:5000',
-  baseURL: '',
+  baseURL: 'https://node-asm03-be-demo.onrender.com',
   headers: {
     'content-type': 'application/json',
   },
